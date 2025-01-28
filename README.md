@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Sudip Adhikari, an undergraduate student at TXST.
 <!--
 **sudip9809/sudip9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
